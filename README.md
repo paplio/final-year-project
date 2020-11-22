@@ -1,6 +1,6 @@
 # Final Year Project
 
-## This repo will host both the client and server side work of the project.
+## This repo will host all server side work of the project.
 The client-side and server-side will be talking to each other with a Flask backend and OkHTTP on our Android app (mostly!)
 
 
