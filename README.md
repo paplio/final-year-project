@@ -1,6 +1,9 @@
-#Final Year Project
-##This contains both server and client sides for video subtitle-ing through deepspeech.
+# Final Year Project
 
-##Currently working only with localhost. 
-##For android-localhost connectivity, we'll be using a flask server and talking to it from our app via okHttp (mostly!)
+## This repo will host both the client and server side work of the project.
+The client-side and server-side will be talking to each other with a Flask backend and OkHTTP on our Android app (mostly!)
 
+
+
+For server functionality, download the deepspeech model and scorer from the deepspeech releases page [here](https://github.com/mozilla/DeepSpeech/releases).
+(Store these in the same folder as subtitle-ing.py!) 
